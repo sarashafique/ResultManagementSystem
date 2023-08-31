@@ -1,0 +1,108 @@
+{
+  "results": [
+    {
+      "rollno": "123",
+      "name": "Anshuman",
+      "email": "anshuman@gmail.com",
+      "score": "99",
+      "id": 1
+    },
+    {
+      "rollno": "124",
+      "name": "KARAN RAJPUT",
+      "email": "hello@gmail.com",
+      "score": "89",
+      "id": 2
+    },
+    {
+      "rollno": "164",
+      "name": "hello world",
+      "email": "singh@gmail.com",
+      "score": "95",
+      "id": 3
+    },
+    {
+      "rollno": "163",
+      "name": "Ayush",
+      "email": "ayush@gmail.com",
+      "score": "65",
+      "id": 4
+    },
+    {
+      "rollno": "157",
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "score": "100",
+      "id": 5
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Anshuman",
+      "password": "1234"
+    },
+    {
+      "name": "12345",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "HELLO RAM",
+      "password": "121",
+      "id": 3
+    },
+    {
+      "name": "Nirmal Babu",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "NOBITA",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Ankit",
+      "password": "Bhatnagar",
+      "id": 6
+    },
+    {
+      "name": "1234",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "Shubham",
+      "password": "abcd",
+      "id": 8
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Anshuman",
+      "password": "12345"
+    },
+    {
+      "name": "123",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "HELLO NOBITA",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "NIRMAL SINGH",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "1234",
+      "password": "1234",
+      "id": 5
+    }
+  ]
+}
